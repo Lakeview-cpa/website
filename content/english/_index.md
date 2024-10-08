@@ -21,7 +21,7 @@ features:
     button:
       enable: true
       label: "Read More"
-      link: "#"
+      link: "/about"
 
   - title: "Tax & Accounting Services"
     image: "/images/1.png"
