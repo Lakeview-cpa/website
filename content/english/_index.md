@@ -34,7 +34,7 @@ features:
     button:
       enable: false
       label: "Get Started Now"
-      link: "https://github.com/zeon-studio/hugoplate"
+      link: "https://www.cognitoforms.com/JacobCDrumCPA/ProspectiveClientQuestionnaire"
 
   - title: "We Are Excited to Work With You"
     image: "/images/form.png"
