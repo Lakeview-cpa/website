@@ -2,7 +2,7 @@
 title: "Jake Drum, CPA, CFP, PFS"
 meta_title: "About"
 description: "this is meta description"
-image: "/images/author.jpg"
+#image: "/images/author.jpg"
 draft: false
 ---
 ![Jake Drum](/images/author.jpg)
