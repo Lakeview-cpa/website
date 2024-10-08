@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 # The base URL of your site (required). This will be prepended to all relative URLs.
-baseURL = "https://lakeview-cpa.github.io/website/"
+baseURL = "https://lakeview-cpa.github.io/website"
 # Title of your website (required).
 title = "Lakeview Tax Advisors"
 # Your theme name
