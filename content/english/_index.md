@@ -19,9 +19,9 @@ features:
      # - "CERTIFIED PUBLIC ACCOUNTANT"
      # - "CERTIFIED FINANCIAL PLANNER"
     button:
-      enable: true
+      enable: false
       label: "Read More"
-      link: "website/about"
+      link: "/website/about"
 
   - title: "Tax & Accounting Services"
     image: "/images/1.png"
