@@ -13,7 +13,7 @@ banner:
 features:
   - title: "Jacob C. Drum, CPA, CFP®, PFS"
     image: "/images/about.jpg"
-    link: "/about"
+    link: "../about"
     content: "Jake Drum is a Certified Public Accountant and a Certified Financial Planner® with vast experience in public accounting, tax advisory, and financial planning. His vision in founding Lakeview Tax Advisors is to build lifelong relationships with his clients and help them reach their financial goals. Lakeview focuses on clients who want to reach financial independnce through entrpreneurship, real estate, and investing."
     #bulletpoints:
      # - "CERTIFIED PUBLIC ACCOUNTANT"
@@ -47,5 +47,5 @@ features:
     button:
       enable: true
       label: "Get Started"
-      link: "youtube.com"
+      link: "https://www.cognitoforms.com/JacobCDrumCPA/ProspectiveClientQuestionnaire"
 ---
