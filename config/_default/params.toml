@@ -63,7 +63,7 @@ link = "https://portal.jakedrum.com/"
 # seo module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/basic-seo
 [metadata]
 keywords = ["Boilerplate", "Hugo"]
-description = "Hugo & Tailwindcss Starter"
+description = "Keep more of what you make"
 author = "zeon.studio"
 twitter = "zeon_studio"
 image = "images/preview.png"
