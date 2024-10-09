@@ -1,7 +1,7 @@
 ---
 #title: "Jake Drum, CPA, CFP, PFS"
-meta_title: "About"
-description: "this is meta description"
+meta_title: "About Jake"
+description: "Bio"
 #image: "/images/author.jpg"
 draft: false
 ---
@@ -16,7 +16,7 @@ I founded Lakeview Tax Advisors with the goal of bringing together my experience
 <hr>
 
 ##### Education and Experience:
-I am a graduate of Auburn University where I walked on to the basketball team for four years and the football team for my senior year. I later received my Masters in accounting from UAB. I have 10 years experience working in public accounting and financial planning
+I am a graduate of Auburn University where I walked on to the basketball team for four years and the football team my senior year. I later received my Masters in Accounting from UAB. I have 10 years experience working in public accounting and financial planning
 
 <hr>
 
@@ -24,13 +24,13 @@ I am a graduate of Auburn University where I walked on to the basketball team fo
 - American Institute of Certified Public Accountants
 - Financial Planning Association of North Alabama
 - Estate Planning Council of Birmingham
-- Member of Church of the Highlands
+- Church of the Highlands
 - Auburn Alumni Association
 
 <hr>
 
 ##### More about me:
-My wife, Ashley, and I have two children and our weekends are filled with youth sports, watching our favorite teams play, and travel. 
+My wife, Ashley, and I have two children and our weekends stay busy with youth sports, watching our favorite teams play, and travel. 
 
 ![Jake and his family at Auburn](/images/family.jpg)
 
