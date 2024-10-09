@@ -17,7 +17,7 @@
                 <a
                   class="btn btn-primary"
                   href="{{ .link | absURL }}"
-                  {{ if strings.HasPrefix .link `http` }}
+                  {{ if strings.HasPrefix .link `https` }}
                     target="_blank" rel="noopener"
                   {{ end }}>
                   {{ .label }}
