@@ -28,8 +28,8 @@ features:
     link: "/about"
     content: "We take a holistic approach to tax planning, tax return preparation, and accounting services."
     bulletpoints:
-      - "**Tax planning** - strategies to defer, reduce, and eliminate taxes. We take a proactive approach to planning for the future to help you reach your financial goals."
-      - "**Tax return preparation** - accurate and on-time. Our focus on tax planning and utilizing technology makes tax filing a simple process."
+      - "**Tax Planning** - strategies to defer, reduce, and eliminate taxes. We take a proactive approach to planning for the future to help you reach your financial goals."
+      - "**Tax Return Preparation** - accurate and on-time. Our focus on tax planning and utilizing technology makes tax filing a simple process."
       - "**Accounting & Bookkeeping** - gives you the information you need to make strategic decisions, so you can focus on running your business."
     button:
       enable: false

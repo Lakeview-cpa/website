@@ -9,7 +9,7 @@ draft: false
 ### Jake Drum, CPA, CFP, PFS
 As a Certified Public Accountant and a Certified Financial Planner®  I am able to bring together my experience working in both public accounting and financial planning to provide my clients with a unique perspective on their financial lives.
 
-My tax career has been focused on serving small business owners, real estate investors, sales professionals, and healthcare workers. As a financial planner I have worked with clients from all different industries and professions to help them map out their financial life and create a plan for achieving their goals. 
+My tax career has been focused on serving small business owners, real estate investors, sales professionals, and healthcare workers. As a financial planner, I have worked with clients from all different industries and professions to help them map out their financial life and create a plan for achieving their goals. 
 
 I founded Lakeview Tax Advisors with the goal of bringing together my experience in both tax and financial planning to help clients create a plan to minimize their taxes, and assist them with implementing that plan all the way through the process of preparing their tax return each year. 
 
