@@ -59,7 +59,7 @@ weight = 2
 
 [[footer]]
 name = "Become a Client"
-url = "https://www.cognitoforms.com/JacobCDrumCPA/ProspectiveClientQuestionnaire"
+url = "/Become a Client"
 weight = 3
 
 

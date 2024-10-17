@@ -7,7 +7,7 @@ banner:
   button:
     enable: true
     label: "Get Started Today"
-    link: "https://www.cognitoforms.com/JacobCDrumCPA/ProspectiveClientQuestionnaire"
+    link: "/become a client"
 
 # Features
 features:
@@ -34,11 +34,11 @@ features:
     button:
       enable: false
       label: "Get Started Now"
-      link: "https://www.cognitoforms.com/JacobCDrumCPA/ProspectiveClientQuestionnaire"
+      link: "/become a client"
 
   - title: "We Are Excited to Work With You"
     image: "/images/form.png"
-    link: "https://www.cognitoforms.com/JacobCDrumCPA/ProspectiveClientQuestionnaire"
+    link: "/become a client"
     content: ""
     bulletpoints:
       -  "**Step 1: Apply to be a Client** - Click the Get Started button below to fill out an interest form. We will schedule a time to connect and ensure we are a good fit to work together."  
@@ -47,5 +47,5 @@ features:
     button:
       enable: true
       label: "Get Started"
-      link: "https://www.cognitoforms.com/JacobCDrumCPA/ProspectiveClientQuestionnaire"
+      link: "/become a client"
 ---
